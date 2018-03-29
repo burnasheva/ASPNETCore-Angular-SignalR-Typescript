@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/1.1.18/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/1.1.18/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/mstest.testadapter/1.1.18/build/netcoreapp1.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_AspNetCoreAngular2.1858661058.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AspNetCoreAngular2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Solution Items" t="Include" />
+      <e p="src" t="Include">
+        <e p="AspNetCoreAngular2" t="IncludeRecursive">
+          <e p="angularApp" t="Include">
+            <e p="app" t="Include">
+              <e p="about" t="Include">
+                <e p="about.component.html" t="Include" />
+                <e p="about.component.ts" t="Include" />
+                <e p="about.module.ts" t="Include" />
+                <e p="about.routing.ts" t="Include" />
+              </e>
+              <e p="app.component.css" t="Include" />
+              <e p="app.component.html" t="Include" />
+              <e p="app.component.ts" t="Include" />
+              <e p="app.module.ts" t="Include" />
+              <e p="app.routing.ts" t="Include" />
+              <e p="core" t="Include">
+                <e p="core.module.ts" t="Include" />
+                <e p="services" t="Include">
+                  <e p="food-data.service.ts" t="Include" />
+                  <e p="signalR.service.ts" t="Include" />
+                </e>
+              </e>
+              <e p="home" t="Include">
+                <e p="chat" t="Include">
+                  <e p="chat.component.html" t="Include" />
+                  <e p="chat.component.ts" t="Include" />
+                </e>
+                <e p="cpu" t="Include">
+                  <e p="cpu.component.html" t="Include" />
+                  <e p="cpu.component.ts" t="Include" />
+                </e>
+                <e p="dashboard" t="Include">
+                  <e p="dashboard.component.html" t="Include" />
+                  <e p="dashboard.component.ts" t="Include" />
+                </e>
+                <e p="food" t="Include">
+                  <e p="food.component.html" t="Include" />
+                  <e p="food.component.ts" t="Include" />
+                </e>
+                <e p="home.module.ts" t="Include" />
+              </e>
+              <e p="models" t="Include">
+                <e p="chatMessage.model.ts" t="Include" />
+                <e p="foodItem.model.ts" t="Include" />
+              </e>
+              <e p="shared" t="Include">
+                <e p="app.constants.ts" t="Include" />
+              </e>
+            </e>
+            <e p="index.html" t="Include" />
+            <e p="main-aot.ts" t="Include" />
+            <e p="main.ts" t="Include" />
+            <e p="polyfills.ts" t="Include" />
+            <e p="vendor.ts" t="Include" />
+          </e>
+          <e p="appsettings.json" t="Include" />
+          <e p="AspNetCoreAngular2.csproj" t="IncludeRecursive" />
+          <e p="assets" t="Include">
+            <e p="cordova" t="Include">
+              <e p="config.xml" t="Include" />
+            </e>
+            <e p="electron" t="Include">
+              <e p="index.js" t="Include" />
+              <e p="package.json" t="Include" />
+            </e>
+          </e>
+          <e p="Bin" t="ExcludeRecursive" />
+          <e p="config" t="Include">
+            <e p="spec.bundle.js" t="Include" />
+            <e p="webpack.dev.js" t="Include" />
+            <e p="webpack.helpers.js" t="Include" />
+            <e p="webpack.prod.js" t="Include" />
+            <e p="webpack.test.js" t="Include" />
+          </e>
+          <e p="Controller" t="Include">
+            <e p="FoodItemsController.cs" t="Include" />
+          </e>
+          <e p="Dtos" t="Include">
+            <e p="FoodItemViewModel.cs" t="Include" />
+          </e>
+          <e p="Hubs" t="Include">
+            <e p="CoolMessagesHub.cs" t="Include" />
+          </e>
+          <e p="models" t="Include">
+            <e p="ChatMessage.cs" t="Include" />
+            <e p="FoodItem.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="AspNetCoreAngular2.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="FoodRepository.cs" t="Include" />
+            <e p="IFoodRepository.cs" t="Include" />
+          </e>
+          <e p="services" t="Include">
+            <e p="HostedServiceBase.cs" t="Include" />
+            <e p="SchedulerHostedService.cs" t="Include" />
+            <e p="TimerServiceConfiguration.cs" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="tsconfig-aot.json" t="Include" />
+          <e p="tsconfig.json" t="Include" />
+          <e p="tslint.json" t="Include" />
+          <e p="web.config" t="Include" />
+          <e p="webpack.config.js" t="Include" />
+          <e p="wwwroot" t="Include" />
+        </e>
+      </e>
+      <e p="TestProjectMSTest" t="IncludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="FirstTestClass.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TestProjectMSTest.AssemblyInfo.cs" t="Include" />
+              <e p="TestProjectMSTest.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestProjectMSTest.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
