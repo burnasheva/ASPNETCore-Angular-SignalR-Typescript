@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0AD885D6-61CE-4DBF-A56E-946E91BAA6E6}"
 EndProject
@@ -9,7 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreAngular2", "src\AspNetCoreAngular2\AspNetCoreAngular2.csproj", "{C073602B-3A98-4ED4-89CD-C721810989EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectMSTest", "TestProjectMSTest\TestProjectMSTest.csproj", "{8D5CE122-8E99-480C-B69F-C99C74370C23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProjectMSTest", "TestProjectMSTest\TestProjectMSTest.csproj", "{8D5CE122-8E99-480C-B69F-C99C74370C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcProject", "CalcProject\CalcProject.csproj", "{233D0FEF-4B84-452C-A79A-91B4C0410C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherTestProject", "AnotherTestProject\AnotherTestProject.csproj", "{C1E05597-4BEF-4C94-8719-54E39E287237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{BF83CB74-D004-47D9-8AF7-736D65D74DC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +31,18 @@ Global
 		{8D5CE122-8E99-480C-B69F-C99C74370C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D5CE122-8E99-480C-B69F-C99C74370C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D5CE122-8E99-480C-B69F-C99C74370C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233D0FEF-4B84-452C-A79A-91B4C0410C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233D0FEF-4B84-452C-A79A-91B4C0410C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233D0FEF-4B84-452C-A79A-91B4C0410C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233D0FEF-4B84-452C-A79A-91B4C0410C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E05597-4BEF-4C94-8719-54E39E287237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E05597-4BEF-4C94-8719-54E39E287237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E05597-4BEF-4C94-8719-54E39E287237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E05597-4BEF-4C94-8719-54E39E287237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF83CB74-D004-47D9-8AF7-736D65D74DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF83CB74-D004-47D9-8AF7-736D65D74DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF83CB74-D004-47D9-8AF7-736D65D74DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF83CB74-D004-47D9-8AF7-736D65D74DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
