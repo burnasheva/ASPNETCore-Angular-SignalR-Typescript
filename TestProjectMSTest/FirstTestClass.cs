@@ -8,6 +8,7 @@ namespace TestProjectMSTest
         [TestMethod]
         public void TestMethod1()
         {
+
             Assert.AreNotEqual(12, 14, "Should be not equal");
         }
     }
